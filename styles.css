@@ -97,7 +97,7 @@ button{
         margin-top: 20px;
         position: absolute;
         right: 30px;
-        top: 30px; 
+        top: -30px; 
     }
     #box4, #box5, #box6{
         height: 80px;
@@ -105,7 +105,7 @@ button{
         margin-top: 50px;
         position: absolute;
         right: 30px;
-        top: 30px; 
+        top: -30px; 
     }
     #box7, #box8, #box9{
         height: 80px;
@@ -113,8 +113,14 @@ button{
         margin-top: 50px;
         position: absolute;
         right: 30px;
-        top: 30px; 
+        top: -30px; 
     }
+    #box3, #box6, #box9{
+        position: absolute;
+        right: 50px;
+        top: -30px; 
+    }
+
     .outer-text{
         margin-top: -50px;
         height: 80px;
