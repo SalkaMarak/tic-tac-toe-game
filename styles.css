@@ -86,9 +86,7 @@ button{
     }
     .row1, .row2, .row3 {
         display: flex;
-        justify-content: flex-start;  
-        margin-left: 30px;
-        margin-bottom: 30px; 
+        justify-content: flex-start;
     }
     .box{
         position: relative;
@@ -97,16 +95,25 @@ button{
         height: 80px;
         width: 80px;
         margin-top: 20px;
+        position: absolute;
+        right: 30px;
+        top: 30px; 
     }
     #box4, #box5, #box6{
         height: 80px;
         width: 80px;
         margin-top: 50px;
+        position: absolute;
+        right: 30px;
+        top: 30px; 
     }
     #box7, #box8, #box9{
         height: 80px;
         width: 80px;
         margin-top: 50px;
+        position: absolute;
+        right: 30px;
+        top: 30px; 
     }
     .outer-text{
         margin-top: -50px;
