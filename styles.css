@@ -86,7 +86,9 @@ button{
     }
     .row1, .row2, .row3 {
         display: flex;
-        justify-content: flex-start;   
+        justify-content: flex-start;  
+        margin-left: 30px;
+        margin-bottom: 30px; 
     }
     .box{
         position: relative;
